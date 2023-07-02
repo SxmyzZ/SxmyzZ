@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href="https://github.com/Sxlim">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sxlim&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sxlim&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SxmyzZ&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SxmyzZ&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
 
 </p>
